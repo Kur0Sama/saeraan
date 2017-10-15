@@ -13,6 +13,7 @@ module.exports.run = async(bot, message, args) => {
     var prefix = params.prefixe;
     var author = message.author;
 
+    // ACTIONS
 
     if (!message.guild.member(author).hasPermission("ADMINISTRATOR")) return;
 

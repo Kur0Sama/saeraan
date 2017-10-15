@@ -1,0 +1,28 @@
+{
+  "name": "saeraan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kur0Sama/saeraan.git"
+  },
+  "author": "Kur0Sama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kur0Sama/saeraan/issues"
+  },
+  "homepage": "https://github.com/Kur0Sama/saeraan#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.4",
+    "require": "^2.4.20",
+    "ytdl": "^0.7.0",
+    "ytdl-core": "^0.18.1"
+  }
+}
